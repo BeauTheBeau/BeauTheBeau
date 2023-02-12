@@ -3,7 +3,9 @@ A very good frontend developer.
 
 
 ![BeauTheBeau's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=beauthebeau&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_border=true)
+
 ![BeauTheBeau's GitHub statistics](https://github-readme-stats.vercel.app/api?username=beauthebeau&show_icons=true&theme=dark&hide_border=true)
+
 ![BeauTheBeau's GitHub streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=beauthebeau&theme=dark&hide_border=true)
 
 # My Projects
