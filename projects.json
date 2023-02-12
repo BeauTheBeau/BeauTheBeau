@@ -1,0 +1,35 @@
+{
+  "website": {
+    "title": "My Website",
+    "description": "My Website Description",
+    "url": "https://beauthebeau.github.io",
+    "github": "https://github.com/beauthebeau/beauthebeau.github.io"
+  },
+
+  "false social": {
+    "title": "False Social Media",
+    "description": "A social media platform created over the course of 2 weeks because why not? Complete with notifications, likes, posts and more.",
+    "url": "https://truth-e725b.web.app/landing.html"
+  },
+
+  "beau snippets": {
+    "title": "Beau Snippets",
+    "description": "A collection of code snippets I've created over the years",
+    "url": "https://beauthebeau.github.io/snippets",
+    "github": "https://github.com/beauthebeau/beau-snippets"
+  },
+
+  "cat gpt 2": {
+    "title": "Cat GPT-2",
+    "description": "A website that generates cat-themed text in response to user input",
+    "url": "https://cat-gpt-2.web.app/"
+  },
+
+  "browser landing": {
+    "title": "Browser Landing",
+    "description": "A landing page for a browser. Complete with the DuckDuckGo search engine and search history.",
+    "url": "https://beauthebeau.github.io/browser-landing",
+    "github": "https://github.com/beauthebeau/browser-landing"
+  }
+
+}

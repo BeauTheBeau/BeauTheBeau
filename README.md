@@ -8,21 +8,15 @@ A very good frontend developer.
 
 ![BeauTheBeau's GitHub streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=beauthebeau&theme=dark&hide_border=true)
 
-# My Projects
-
-## My Website | [GitHub](https://github.com/BeauTheBeau/beauthebeau.github.io) | [Website](https://beauthebeau.github.io)
-My website, where all of my projects can be found
-
-
+------------------
+# Projects
+## My Website | [Website](https://beauthebeau.github.io) | [GitHub](https://github.com/beauthebeau/beauthebeau.github.io)
+My Website Description
 ## False Social Media | [Website](https://truth-e725b.web.app/landing.html)
-A social media platform created over the course of 2 weeks because why not?
-
-
-## Beau Snippets | [GitHub](https://github.com/BeauTheBeau/beau-snippets) | [Website](https://beauthebeau.github.io/beau-snippets/)
-
-A collection of code snippets for front-end developers.
-
-
-## Browser Landing Page | [GitHub](https://github.com/BeauTheBeau/browser-landing) | [Website](https://beauthebeau.github.io/browser-landing/)
-A landing page for a browser, because why not? Complete with the DuckDuckGo search engine and search history.
-
+A social media platform created over the course of 2 weeks because why not? Complete with notifications, likes, posts and more.
+## Beau Snippets | [Website](https://beauthebeau.github.io/snippets) | [GitHub](https://github.com/beauthebeau/beau-snippets)
+A collection of code snippets I've created over the years
+## Cat GPT-2 | [Website](https://cat-gpt-2.web.app/)
+A website that generates cat-themed text in response to user input
+## Browser Landing | [Website](https://beauthebeau.github.io/browser-landing) | [GitHub](https://github.com/beauthebeau/browser-landing)
+A landing page for a browser. Complete with the DuckDuckGo search engine and search history.
