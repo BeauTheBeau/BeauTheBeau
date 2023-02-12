@@ -1,27 +1,26 @@
 # BeauTheBeau
-
-A very good front end developer
-
-## Top languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beauthebeau&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=FFFFFF&bg_color=000000" 
-     alt="BeauTheBeau's top languages" title="BeauTheBeau's top languages" />
+A very good frontend developer.
 
 
+![BeauTheBeau's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=beauthebeau&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_border=true)
+![BeauTheBeau's GitHub statistics](https://github-readme-stats.vercel.app/api?username=beauthebeau&show_icons=true&theme=dark&hide_border=true)
+![BeauTheBeau's GitHub streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=beauthebeau&theme=dark&hide_border=true)
 
-<!--
-**BeauTheBeau/BeauTheBeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Projects
 
-Here are some ideas to get you started:
+## My Website | [GitHub](https://github.com/BeauTheBeau/beauthebeau.github.io) | [Website](https://beauthebeau.github.io)
+My website, where all of my projects can be found
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+## False Social Media | [Website](https://truth-e725b.web.app/landing.html)
+A social media platform created over the course of 2 weeks because why not?
+
+
+## Beau Snippets | [GitHub](https://github.com/BeauTheBeau/beau-snippets) | [Website](https://beauthebeau.github.io/beau-snippets/)
+
+A collection of code snippets for front-end developers.
+
+
+## Browser Landing Page | [GitHub](https://github.com/BeauTheBeau/browser-landing) | [Website](https://beauthebeau.github.io/browser-landing/)
+A landing page for a browser, because why not? Complete with the DuckDuckGo search engine and search history.
 
