@@ -2,7 +2,8 @@
 A very good frontend developer.
 
 ------------------
-# Projects
+<details>
+  <summary><h1>Projects</h1></summary>
 ## My Website | [Website](https://beauthebeau.github.io) | [GitHub](https://github.com/beauthebeau/beauthebeau.github.io)
 My Website Description
 
@@ -14,6 +15,7 @@ A landing page for a browser. Complete with the DuckDuckGo search engine and sea
 A social media platform created over the course of 2 weeks because why not? Complete with notifications, likes, posts and more.
 ## [UNAVAILABLE] Cat GPT-2 | [Website](https://cat-gpt-2.web.app/)
 A website that generates cat-themed text in response to user input
+  </details>
 
 ------------------
 ![BeauTheBeau's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=beauthebeau&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_border=true)
