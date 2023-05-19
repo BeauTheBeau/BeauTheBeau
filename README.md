@@ -20,6 +20,7 @@ A website that generates cat-themed text in response to user input
 
 <details>
 <summary><h2>Statistics</h2></summary>
+  
 ![BeauTheBeau's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=beauthebeau&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
 ![BeauTheBeau's GitHub statistics](https://github-readme-stats.vercel.app/api?username=beauthebeau&show_icons=true&theme=dark&hide_border=true)
