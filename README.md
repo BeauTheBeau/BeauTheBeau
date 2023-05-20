@@ -12,9 +12,9 @@ My Website Description
 A collection of code snippets I've created over the years
 ### Browser Landing | [Website](https://beauthebeau.github.io/browser-landing) | [GitHub](https://github.com/beauthebeau/browser-landing)
 A landing page for a browser. Complete with the DuckDuckGo search engine and search history.
-### [UNAVAILABLE] False Social Media | [Website](https://truth-e725b.web.app/landing.html)
+### UNAVAILABLE | False Social Media | [Website](https://truth-e725b.web.app/landing.html)
 A social media platform created over the course of 2 weeks because why not? Complete with notifications, likes, posts and more.
-### [UNAVAILABLE] Cat GPT-2 | [Website](https://cat-gpt-2.web.app/)
+### UNAVAILABLE | Cat GPT-2 | [Website](https://cat-gpt-2.web.app/)
 A website that generates cat-themed text in response to user input
 </details>
 
