@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beauthebeau&theme=gruvbox" alt="beauthebeau" /></a> </p>
 
-- 🔭 I’m currently working on [BEE6](https://github.com/BeauTheBeau/bee6)
+- 🔭 I’m currently working on [**BEE6**](https://github.com/BeauTheBeau/bee6)
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨‍💻 All of my projects are available at [https://beauthebeau.github.io/](https://beauthebeau.github.io/)
+- 👨‍💻 All of my projects are available at [**https://beauthebeau.github.io/**](https://beauthebeau.github.io/)
 
 - 📫 How to reach me **[beau@beauthebeau.pro](mailto:beau@beauthebeau.pro)**
 
