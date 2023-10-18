@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [**https://beauthebeau.github.io/**](https://beauthebeau.github.io/)
 
-- 📫 How to reach me **[beau@beauthebeau.pro](mailto:beau@beauthebeau.pro)**
+- 📫 How to reach me **[beau@beauthebeau.pro](mailto:beau@beauthebeau.pro), [beauthebeau@skiff.com](mailto:beauthebeau@skiff.com)**
 
 - ⚡ Fun fact **i am cool.**
 
