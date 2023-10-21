@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 👨‍💻 All of my projects are available at [**https://beauthebeau.github.io/**](https://beauthebeau.github.io/)
+- 👨‍💻 All of my projects are available [**here**](https://beauthebeau.github.io/)
 
 - 📫 How to reach me **[beau@beauthebeau.pro](mailto:beau@beauthebeau.pro), [beauthebeau@skiff.com](mailto:beauthebeau@skiff.com)**
 
