@@ -1,4 +1,4 @@
-# Hi 👋, I'm BeauTheBeau
+# Hi, I'm BeauTheBeau
 ### A very cool front end developer
 
 
